@@ -4,19 +4,19 @@
 
 ---
 
-### Resources
-
-<a href=https://github.com/itsrichardyu/cis6>
-<img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=cis6&theme=monokai />
-</a>
-
-<br />
-
-### Repositories
+### Projects
 
 <a href=https://github.com/itsrichardyu/covid19-datascraper>
 <img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=covid19-datascraper&theme=monokai />
 </a>
 <a href=https://github.com/itsrichardyu/previewspotify>
 <img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=previewspotify&theme=monokai />
+</a>
+
+<br />
+
+### Resources
+
+<a href=https://github.com/itsrichardyu/cis6>
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=cis6&theme=monokai />
 </a>
