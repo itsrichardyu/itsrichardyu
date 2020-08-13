@@ -4,9 +4,16 @@
 
 ---
 
+### Resources
+
 <a href=https://github.com/itsrichardyu/cis6>
 <img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=cis6&theme=monokai />
 </a>
+
+<br />
+
+### Repositories
+
 <a href=https://github.com/itsrichardyu/covid19-datascraper>
 <img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=covid19-datascraper&theme=monokai />
 </a>
