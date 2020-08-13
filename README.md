@@ -7,7 +7,7 @@
 ### Projects
 
 <a href=https://github.com/itsrichardyu/covid19-datascraper>
-<img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=covid19-datascraper&theme=monokai />
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=covid19-datascraper&theme=monokai />
 </a>
 <a href=https://github.com/itsrichardyu/previewspotify>
 <img align=left src=https://github-readme-stats.vercel.app/api/pin/?username=itsrichardyu&repo=previewspotify&theme=monokai />
