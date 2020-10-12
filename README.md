@@ -1,6 +1,6 @@
 ## welcome to ricardos profile
 
-trying my b̶e̶s̶t̶ worst
+nahhhhhhhh trying is too hard
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrichardyu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
